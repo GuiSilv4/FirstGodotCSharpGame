@@ -1,0 +1,8 @@
+/home/galano/FirstTestProject/.mono/temp/bin/Debug/FirstTestProject.dll
+/home/galano/FirstTestProject/.mono/temp/bin/Debug/FirstTestProject.pdb
+/home/galano/FirstTestProject/.mono/temp/obj/Debug/FirstTestProject.csprojAssemblyReference.cache
+/home/galano/FirstTestProject/.mono/temp/obj/Debug/FirstTestProject.AssemblyInfoInputs.cache
+/home/galano/FirstTestProject/.mono/temp/obj/Debug/FirstTestProject.AssemblyInfo.cs
+/home/galano/FirstTestProject/.mono/temp/obj/Debug/FirstTestProject.csproj.CoreCompileInputs.cache
+/home/galano/FirstTestProject/.mono/temp/obj/Debug/FirstTestProject.dll
+/home/galano/FirstTestProject/.mono/temp/obj/Debug/FirstTestProject.pdb
